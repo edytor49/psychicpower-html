@@ -28,7 +28,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansLight.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansLight.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansLight.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansLight.woff") format("woff");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -36,7 +36,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansLightItalic.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansLightItalic.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansLightItalic.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansLightItalic.woff") format("woff");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -44,7 +44,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansRegular.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansRegular.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansRegular.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansRegular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -52,7 +52,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansItalic.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansItalic.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansItalic.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansItalic.woff") format("woff");
   font-weight: 400;
   font-style: italic;
   font-display: swap;
@@ -60,7 +60,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansMedium.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansMedium.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansMedium.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansMedium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -68,7 +68,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansMediumItalic.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansMediumItalic.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansMediumItalic.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansMediumItalic.woff") format("woff");
   font-weight: 500;
   font-style: italic;
   font-display: swap;
@@ -76,7 +76,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansBold.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansBold.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansBold.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansBold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -84,7 +84,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansBoldItalic.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansBoldItalic.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansBoldItalic.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansBoldItalic.woff") format("woff");
   font-weight: 700;
   font-style: italic;
   font-display: swap;
@@ -92,7 +92,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansBlack.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansBlack.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansBlack.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansBlack.woff") format("woff");
   font-weight: 900;
   font-style: normal;
   font-display: swap;
@@ -100,7 +100,7 @@
 
 @font-face {
   font-family: "MuseoSans";
-  src: url("/font/MuseoSans/MuseoSansBlackItalic.woff2") format("woff2"), url("/font/MuseoSans/MuseoSansBlackItalic.woff") format("woff");
+  src: url("../font/MuseoSans/MuseoSansBlackItalic.woff2") format("woff2"), url("../font/MuseoSans/MuseoSansBlackItalic.woff") format("woff");
   font-weight: 900;
   font-style: italic;
   font-display: swap;
