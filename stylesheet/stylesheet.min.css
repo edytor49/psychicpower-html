@@ -200,14 +200,14 @@ picture {
 }
 
 .py-8 {
-  padding-top: 8rem !important;
-  padding-bottom: 8rem !important;
+  padding-top: 6rem !important;
+  padding-bottom: 6rem !important;
 }
 
 @media (min-width: 992px) {
   .py-lg-8 {
-    padding-top: 8rem !important;
-    padding-bottom: 8rem !important;
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
   }
 }
 
@@ -216,8 +216,8 @@ picture {
     max-width: 1170px;
   }
   .py-xl-8 {
-    padding-top: 8rem !important;
-    padding-bottom: 8rem !important;
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
   }
 }
 
@@ -226,8 +226,8 @@ picture {
     max-width: 1170px;
   }
   .py-xxl-8 {
-    padding-top: 8rem !important;
-    padding-bottom: 8rem !important;
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
   }
 }
 
